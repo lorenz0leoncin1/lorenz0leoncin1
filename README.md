@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenz0leoncin1&show_icons=true&locale=en&layout=compact" alt="lorenz0leoncin1" /></p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
