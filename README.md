@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="https://github.com/lorenz0leoncin1/lorenz0leoncin1/assets/93738126/ec1cd8a8-b0a7-4df7-9a34-9cf4a58ecf1e" alt="GitHub Header Image">
-</div>
-<h3 align="center">This is my GitHub!</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lorenzo+Leoncini!;" />
+</h1>
+<h3 align="center">I'm a passionate software developer and student from Italy 🇮🇹</h3>
+<h3 align="center">This is my GitHub!⭐</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenz0leoncin1&label=Profile%20views&color=0e75b6&style=flat" alt="lorenz0leoncin1" /> </p>
 
-- 🌱 I’m currently studying **MSc Computer Science - AI @ Università degli studi di Milano**
-
+-  I’m currently studying **MSc Computer Science - AI @ Università degli studi di Milano**📚🖥️
 - 📫 How to reach me **lorenzoleoncini23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,3 +21,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenz0leoncin1&show_icons=true&locale=en&layout=compact" alt="lorenz0leoncin1" /></p>
 
+<br><br><br><br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
