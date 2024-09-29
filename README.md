@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenz0leoncin1&label=Profile%20views&color=0e75b6&style=flat" alt="lorenz0leoncin1" /> </p>
 
--  I’m currently studying **MSc Artificial Intelligence @ Università degli studi di Milano**📚🖥️
+-  I’m currently studying **MSc Computer Science @ Università degli studi di Milano**📚🖥️
 - 📫 How to reach me **lorenzoleoncini23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
