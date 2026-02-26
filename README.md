@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lorenzo%20Leoncini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20MSc%20Computer%20Science&descAlignY=55&descSize=16" />
+# Lorenzo Leoncini
+### Software Developer | MSc Computer Science
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+matter;Passionate+about+clean+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+matter;Passionate+about+clean+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +18,6 @@ name: Lorenzo Leoncini
 location: Milan, Italy
 education: MSc Computer Science
            @ Università degli Studi di Milano
-status: Open to collaborations
 contact: lorenzoleoncini23@gmail.com
 interests:
   - Software Development
@@ -75,13 +71,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenz0leoncin1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="55%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenz0leoncin1&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="92%" />
+<img src="https://streak-stats.demolab.com?user=lorenz0leoncin1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="55%" />
 
 </div>
 
@@ -90,7 +80,5 @@ interests:
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lorenz0leoncin1&label=Profile+Views&color=58A6FF&style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
