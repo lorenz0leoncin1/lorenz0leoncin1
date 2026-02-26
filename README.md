@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### About Me
 
@@ -64,8 +64,8 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lorenz0leoncin1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenz0leoncin1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="41%" />
+<img height="160" src="https://readme-stats.clckblog.space/api?username=lorenz0leoncin1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="160" src="https://readme-stats.clckblog.space/api/top-langs/?username=lorenz0leoncin1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
