@@ -22,7 +22,7 @@ contact: lorenzoleoncini23@gmail.com
 interests:
   - Software Development
   - Systems Programming
-  - Game Dev & Embedded Systems
+  - ML & Artificial Intelligence
 ```
 
 <br clear="right"/>
